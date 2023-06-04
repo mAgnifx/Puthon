@@ -1,3 +1,3 @@
 # Simple-tkinter-app
 
-Super simple app in customtkinter!
+To-do list type app!
